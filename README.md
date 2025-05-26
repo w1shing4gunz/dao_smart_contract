@@ -155,3 +155,4 @@ dao.executeProposal(1);
 5. **Execute** proposals after voting ends
 
 *Simple DAO provides the foundation for decentralized governance while maintaining simplicity and security. Perfect for communities ready to embrace decentralized decision-making!*
+![97669081-a4aa-4298-bd9e-6af7ea5d3571](https://github.com/user-attachments/assets/9033653f-b948-4ba1-801b-8e406fa964bf)
