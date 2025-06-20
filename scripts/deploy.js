@@ -3,10 +3,10 @@ const hre = require("hardhat");
 async function main() {
   // Get the ContractFactory for TokenAuditTrail
   const TokenAuditTrail = await hre.ethers.getContractFactory(
-    "TokenAuditTrail"
+    "dao_smart_contract"
   );
 
-  console.log("Deploying TokenAuditTrail contract...");
+  console.log("Deploying DAO smart contract...");
 
   // Deploy the contract
   const tokenAuditTrail = await TokenAuditTrail.deploy();
