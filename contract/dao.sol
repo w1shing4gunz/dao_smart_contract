@@ -1,10 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-/**
- * @title SimpleDAO
- * @dev A basic DAO with proposal creation and voting
- */
 contract SimpleDAO {
     
     // Proposal structure
